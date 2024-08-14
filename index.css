@@ -7,3 +7,9 @@ table{
     align-content: center;
      justify-content: space-between;
 }
+
+tbody{
+    background-color: red;
+    height: 30vh;
+    width: auto;
+}
