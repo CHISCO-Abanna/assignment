@@ -2,4 +2,8 @@ table{
     background-color: blue;
     height: 70vh;
     width: 100%;
+    font-size: xx-small;
+    justify-content: center;
+    align-content: center;
+     
 }
